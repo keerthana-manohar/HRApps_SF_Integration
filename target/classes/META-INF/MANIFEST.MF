@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: HRApps
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: e1626285
+Implementation-Vendor-Id: mk.learning.HRApps
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/HRApps
+Created-By: Maven Integration for Eclipse
+
